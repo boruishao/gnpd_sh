@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+*
+!*/
+!.gitignore
+!/backup/publish.sh
+!/backup/restart.sh
+
+!/fetch/publish.sh
+!/fetch/restart.sh
+
+!/handshake/publish.sh
+!/handshake/restart.sh
+
+!/parse/publish.sh
+!/parse/restart.sh
+
+!/storage/publish.sh
+!/storage/restart.sh
+
+!/supervisord/*.ini
